@@ -73,6 +73,3 @@ src/
     └── mock-data.ts            # Sample pathology data
 ```
 
-## License
-
-MIT
